@@ -26,9 +26,9 @@ Course week|Type|Content|Breakout Activity|Date|Time |
 |[Week 3](../../modules/week3)      |Coaching #1 | See [workplan for project](docs/course/project/workplan) |No breakout activity|Monday, 14 February, 2022|14.45-16.30|
 |        |Live stream #3 |Exploring and auditing data with RMarkdown |See [breakout activity](/docs/modules/week3/activity)|Thursday, 17 February, 2022|14.45-16.30|
 |[Week 4](../../modules/week4)      |Coaching #2 | See [workplan for project](docs/course/project/workplan) |No breakout activity|Tuesday, 22 February, 2022|14.45-16.30|
-|      |Live stream #4 | Engineering data sets |No breakout activity|Friday, 25 February, 2022|12.45-14.30|
+|      |Live stream #4 | Engineering data sets |See [breakout activity](/docs/modules/week4/activity)|Friday, 25 February, 2022|12.45-14.30|
 |[Week 5](../../modules/week5)      |Coaching #3 | See [workplan for project](docs/course/project/workplan) |No breakout activity|Monday, 7 March, 2022|14.45-16.30|
-|      |Live stream #5 | Pipeline building and automation |No breakout activity|Thursday, 10 March, 2022|14.45-16.30|
+|      |Live stream #5 | Pipeline building and automation |See [breakout activity](/docs/modules/week5/activity)|Thursday, 10 March, 2022|14.45-16.30|
 |[Week 6](../../modules/week6)      |Coaching #4 | See [workplan for project](docs/course/project/workplan) |No breakout activity|Monday, 14 March, 2022|14.45-16.30|
 |[Week 7](../../modules/week7)      |Optional Coaching | See [workplan for project](docs/course/project/workplan) |No breakout activity|Thursday, 17 March, 2022|14.45-16.30|
 |      |Live stream #6 | Course summary and exam preparation  |No breakout activity|Thursday, 24 March, 2022|14.45-16.30|
